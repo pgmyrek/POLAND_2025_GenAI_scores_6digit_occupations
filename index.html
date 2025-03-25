@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tree Visualization</title>
+    <style>
+        .link {
+            fill: none;
+            stroke: #ccc;
+            stroke-width: 2px;
+        }
+        .node circle {
+            fill: #fff;
+            stroke: steelblue;
+            stroke-width: 3px;
+        }
+        .node text {
+            font: 6px sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Visualization of Polish 6-digit occupational structure with tasks</h1>
+
+    <!-- Add Legend -->
+    <div style="margin: 20px;">
+      <strong>Exposure of 6-digit occupations to GenAI (potential25)</strong>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <div style="width: 10px; height: 10px; background-color: lightgreen; margin-right: 5px;"></div> Minimal Exposure
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <div style="width: 10px; height: 10px; background-color: lightblue; margin-right: 5px;"></div> Exposed: Gradient 2
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <div style="width: 10px; height: 10px; background-color: orange; margin-right: 5px;"></div> Exposed: Gradient 3
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 15px;">
+        <div style="width: 10px; height: 10px; background-color: red; margin-right: 5px;"></div> Exposed: Gradient 4
+      </div>
+
+      <strong>Exposure of tasks to GenAI (task_color)</strong>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <div style="width: 10px; height: 10px; background-color: lightgrey; margin-right: 5px;"></div> Very Low
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <div style="width: 10px; height: 10px; background-color: lightgreen; margin-right: 5px;"></div> Low
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <div style="width: 10px; height: 10px; background-color: orange; margin-right: 5px;"></div> Medium
+      </div>
+      <div style="display: flex; align-items: center;">
+        <div style="width: 10px; height: 10px; background-color: red; margin-right: 5px;"></div> High
+      </div>
+    </div>
+
+    <p><em>Plot by Pawel Gmyrek, ILO (<a href="https://github.com/pgmyrek">https://github.com/pgmyrek</a>)</em></p>
+
+        <div id="tree-container"></div>
+    
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="script.js"></script>
+    <button id="saveButton">Save as PNG</button>
+
+</body>
+</html>
