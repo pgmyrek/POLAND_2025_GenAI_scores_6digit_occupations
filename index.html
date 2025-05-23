@@ -23,45 +23,53 @@
 <body>
     <h1>Visualization of Polish 6-digit occupational structure with tasks</h1>
 
-    <!-- Add Legend -->
-    <div style="margin: 20px;">
-      <strong>Exposure of 6-digit occupations to GenAI (potential25)</strong>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <div style="width: 10px; height: 10px; background-color: lightgreen; margin-right: 5px;"></div> Minimal Exposure
-      </div>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <div style="width: 10px; height: 10px; background-color: lightblue; margin-right: 5px;"></div> Exposed: Gradient 2
-      </div>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <div style="width: 10px; height: 10px; background-color: orange; margin-right: 5px;"></div> Exposed: Gradient 3
-      </div>
-      <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <div style="width: 10px; height: 10px; background-color: red; margin-right: 5px;"></div> Exposed: Gradient 4
-      </div>
+<!-- Add Legend with Margins -->
+<div style="margin: 20px;">
+  <strong>Exposure Category (at ISCO08 4-digit level)</strong>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: red; margin-right: 5px;"></div> Exposed: Gradient 4
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: orange; margin-right: 5px;"></div> Exposed: Gradient 3
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: lightblue; margin-right: 5px;"></div> Exposed: Gradient 2
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: blue; margin-right: 5px;"></div> Exposed: Gradient 1
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: lightgreen; margin-right: 5px;"></div> Minimal Exposure
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: grey; margin-right: 5px;"></div> Not Exposed
+  </div>
+</br>
+  <strong>Task-Level Exposure (for ISCO08 4-digit tasks)</strong>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: lightgrey; margin-right: 5px;"></div> Very Low
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: lightgreen; margin-right: 5px;"></div> Low
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: orange; margin-right: 5px;"></div> Medium
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px 0;">
+    <div style="width: 10px; height: 10px; background-color: red; margin-right: 5px;"></div> High
+  </div>
 
-      <strong>Exposure of tasks to GenAI (task_color)</strong>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <div style="width: 10px; height: 10px; background-color: lightgrey; margin-right: 5px;"></div> Very Low
-      </div>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <div style="width: 10px; height: 10px; background-color: lightgreen; margin-right: 5px;"></div> Low
-      </div>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <div style="width: 10px; height: 10px; background-color: orange; margin-right: 5px;"></div> Medium
-      </div>
-      <div style="display: flex; align-items: center;">
-        <div style="width: 10px; height: 10px; background-color: red; margin-right: 5px;"></div> High
-      </div>
-    </div>
+  <!-- Add the citation below the legend -->
+  <div style="margin-top: 20px;">
+      <em>Source: Paweł Gmyrek (ILO), Janine Berg (ILO), Karol Kamiński (NASK-PIB), Filip Konopczyński (NASK-PIB), Agnieszka Ładna (NASK-PIB), Balint Nafradi (ILO), Konrad Rosłaniec (NASK-PIB), Marek Troszyński (NASK-PIB, Civitas University), A New Global Index of Occupational Exposure to Generative AI, ILO Working Paper 140 (<a href="#">https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure</a>).</em>
+  </div>
 
-    <p><em>Plot by Pawel Gmyrek, ILO (<a href="https://github.com/pgmyrek">https://github.com/pgmyrek</a>)</em></p>
+  <p><em>Plot by Paweł Gmyrek, ILO (<a href="https://github.com/pgmyrek">https://github.com/pgmyrek</a>)</em></p>
+</div>
 
-        <div id="tree-container"></div>
-    
-
-    <script src="https://d3js.org/d3.v6.min.js"></script>
-    <script src="script.js"></script>
-    <button id="saveButton">Save as PNG</button>
+  <div id="tree-container"></div>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="script.js"></script>
 
 </body>
 </html>
