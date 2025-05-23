@@ -4,14 +4,16 @@ const height = 350000;
 
 // Define consistent color mapping
 const colorMap = {
-  "Minimal Exposure": "lightgreen",
-  "Exposed: Gradient 2": "lightblue",
-  "Exposed: Gradient 3": "orange",
   "Exposed: Gradient 4": "red",
-  "Very Low": "lightgrey",
-  "Low": "lightgreen",
+  "Exposed: Gradient 3": "orange",
+  "Exposed: Gradient 2": "lightblue",
+  "Exposed: Gradient 1": "blue",
+  "Minimal Exposure": "lightgreen",
+  "Not Exposed": "grey",
+  "High": "red", 
   "Medium": "orange",
-  "High": "red"
+  "Low": "lightgreen",
+  "Very Low": "lightgrey"
 };
 
 // Append the SVG object to the body
@@ -26,7 +28,7 @@ const svg = d3.select("#tree-container")
 const tree = d3.tree().size([height, width - 3000]);
 
 // Load JSON data
-d3.json("output_data.json").then(data => {
+d3.json("output_data_PL.json").then(data => {
   const root = d3.hierarchy(data);
 
   // Assign the tree layout to the data
