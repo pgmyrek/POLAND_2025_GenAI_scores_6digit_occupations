@@ -1,0 +1,437 @@
+﻿isco08_4d,description_4d,isco08_3d,description_3d,isco08_2d,description_2d,isco08_1d,description_1d
+1111,Legislators,111,Legislators and senior officials,11,"Chief executives, senior officials and legislators",1,Managers
+1112,Senior government officials,111,Legislators and senior officials,11,"Chief executives, senior officials and legislators",1,Managers
+1113,Traditional chiefs and heads of village,111,Legislators and senior officials,11,"Chief executives, senior officials and legislators",1,Managers
+1114,Senior officials of special-interest organizations,111,Legislators and senior officials,11,"Chief executives, senior officials and legislators",1,Managers
+1120,Managing directors and chief executives,112,Managing directors and chief executives,11,"Chief executives, senior officials and legislators",1,Managers
+1211,Finance managers,121,Business services and administration managers,12,Administrative and commercial managers,1,Managers
+1212,Human resource managers,121,Business services and administration managers,12,Administrative and commercial managers,1,Managers
+1213,Policy and planning managers,121,Business services and administration managers,12,Administrative and commercial managers,1,Managers
+1219,Business services and administration managers not elsewhere classified,121,Business services and administration managers,12,Administrative and commercial managers,1,Managers
+1221,Sales and marketing managers,122,"Sales, marketing and development managers",12,Administrative and commercial managers,1,Managers
+1222,Advertising and public relations managers,122,"Sales, marketing and development managers",12,Administrative and commercial managers,1,Managers
+1223,Research and development managers,122,"Sales, marketing and development managers",12,Administrative and commercial managers,1,Managers
+1311,Agricultural and forestry production managers,131,"Production managers in agriculture, forestry and fisheries",13,Production and specialised services managers,1,Managers
+1312,Aquaculture and fisheries production managers,131,"Production managers in agriculture, forestry and fisheries",13,Production and specialised services managers,1,Managers
+1321,Manufacturing managers,132,"Manufacturing, mining, construction, and distribution managers",13,Production and specialised services managers,1,Managers
+1322,Mining managers,132,"Manufacturing, mining, construction, and distribution managers",13,Production and specialised services managers,1,Managers
+1323,Construction managers,132,"Manufacturing, mining, construction, and distribution managers",13,Production and specialised services managers,1,Managers
+1324,"Supply, distribution and related managers",132,"Manufacturing, mining, construction, and distribution managers",13,Production and specialised services managers,1,Managers
+1330,Information and communications technology service managers,133,Information and communications technology service managers,13,Production and specialised services managers,1,Managers
+1341,Child care services managers,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1342,Health services managers,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1343,Aged care services managers,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1344,Social welfare managers,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1345,Education managers,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1346,Financial and insurance services branch managers,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1349,Professional services managers not elsewhere classified,134,Professional services managers,13,Production and specialised services managers,1,Managers
+1411,Hotel managers,141,Hotel and restaurant managers,14,"Hospitality, retail and other services managers",1,Managers
+1412,Restaurant managers,141,Hotel and restaurant managers,14,"Hospitality, retail and other services managers",1,Managers
+1420,Retail and wholesale trade managers,142,Retail and wholesale trade managers,14,"Hospitality, retail and other services managers",1,Managers
+1431,"Sports, recreation and cultural centre managers",143,Other services managers,14,"Hospitality, retail and other services managers",1,Managers
+1439,Services managers not elsewhere classified,143,Other services managers,14,"Hospitality, retail and other services managers",1,Managers
+2111,Physicists and astronomers,211,Physical and earth science professionals,21,Science and engineering professionals,2,Professionals
+2112,Meteorologists,211,Physical and earth science professionals,21,Science and engineering professionals,2,Professionals
+2113,Chemists,211,Physical and earth science professionals,21,Science and engineering professionals,2,Professionals
+2114,Geologists and geophysicists,211,Physical and earth science professionals,21,Science and engineering professionals,2,Professionals
+2120,"Mathematicians, actuaries and statisticians",212,"Mathematicians, actuaries and statisticians",21,Science and engineering professionals,2,Professionals
+2131,"Biologists, botanists, zoologists and related professionals",213,Life science professionals,21,Science and engineering professionals,2,Professionals
+2132,"Farming, forestry and fisheries advisers",213,Life science professionals,21,Science and engineering professionals,2,Professionals
+2133,Environmental protection professionals,213,Life science professionals,21,Science and engineering professionals,2,Professionals
+2141,Industrial and production engineers,214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2142,Civil engineers,214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2143,Environmental engineers,214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2144,Mechanical engineers,214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2145,Chemical engineers,214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2146,"Mining engineers, metallurgists and related professionals",214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2149,Engineering professionals not elsewhere classified,214,Engineering professionals (excluding electrotechnology),21,Science and engineering professionals,2,Professionals
+2151,Electrical engineers,215,Electrotechnology engineers,21,Science and engineering professionals,2,Professionals
+2152,Electronics engineers,215,Electrotechnology engineers,21,Science and engineering professionals,2,Professionals
+2153,Telecommunications engineers,215,Electrotechnology engineers,21,Science and engineering professionals,2,Professionals
+2161,Building architects,216,"Architects, planners, surveyors and designers",21,Science and engineering professionals,2,Professionals
+2162,Landscape architects,216,"Architects, planners, surveyors and designers",21,Science and engineering professionals,2,Professionals
+2163,Product and garment designers,216,"Architects, planners, surveyors and designers",21,Science and engineering professionals,2,Professionals
+2164,Town and traffic planners,216,"Architects, planners, surveyors and designers",21,Science and engineering professionals,2,Professionals
+2165,Cartographers and surveyors,216,"Architects, planners, surveyors and designers",21,Science and engineering professionals,2,Professionals
+2166,Graphic and multimedia designers,216,"Architects, planners, surveyors and designers",21,Science and engineering professionals,2,Professionals
+2211,Generalist medical practitioners,221,Medical doctors,22,Health professionals,2,Professionals
+2212,Specialist medical practitioners,221,Medical doctors,22,Health professionals,2,Professionals
+2221,Nursing professionals,222,Nursing and midwifery professionals,22,Health professionals,2,Professionals
+2222,Midwifery professionals,222,Nursing and midwifery professionals,22,Health professionals,2,Professionals
+2230,Traditional and complementary medicine professionals,223,Traditional and complementary medicine professionals,22,Health professionals,2,Professionals
+2240,Paramedical practitioners,224,Paramedical practitioners,22,Health professionals,2,Professionals
+2250,Veterinarians,225,Veterinarians,22,Health professionals,2,Professionals
+2261,Dentists,226,Other health professionals,22,Health professionals,2,Professionals
+2262,Pharmacists,226,Other health professionals,22,Health professionals,2,Professionals
+2263,Environmental and occupational health and hygiene professionals,226,Other health professionals,22,Health professionals,2,Professionals
+2264,Physiotherapists,226,Other health professionals,22,Health professionals,2,Professionals
+2265,Dieticians and nutritionists,226,Other health professionals,22,Health professionals,2,Professionals
+2266,Audiologists and speech therapists,226,Other health professionals,22,Health professionals,2,Professionals
+2267,Optometrists and ophthalmic opticians,226,Other health professionals,22,Health professionals,2,Professionals
+2269,Health professionals not elsewhere classified,226,Other health professionals,22,Health professionals,2,Professionals
+2310,University and higher education teachers,231,University and higher education teachers,23,Teaching professionals,2,Professionals
+2320,Vocational education teachers,232,Vocational education teachers,23,Teaching professionals,2,Professionals
+2330,Secondary education teachers,233,Secondary education teachers,23,Teaching professionals,2,Professionals
+2341,Primary school teachers,234,Primary school and early childhood teachers,23,Teaching professionals,2,Professionals
+2342,Early childhood educators,234,Primary school and early childhood teachers,23,Teaching professionals,2,Professionals
+2351,Education methods specialists,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2352,Special needs teachers,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2353,Other language teachers,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2354,Other music teachers,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2355,Other arts teachers,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2356,Information technology trainers,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2359,Teaching professionals not elsewhere classified,235,Other teaching professionals,23,Teaching professionals,2,Professionals
+2411,Accountants,241,Finance professionals,24,Business and administration professionals,2,Professionals
+2412,Financial and investment advisers,241,Finance professionals,24,Business and administration professionals,2,Professionals
+2413,Financial analysts,241,Finance professionals,24,Business and administration professionals,2,Professionals
+2421,Management and organization analysts,242,Administration professionals,24,Business and administration professionals,2,Professionals
+2422,Policy administration professionals,242,Administration professionals,24,Business and administration professionals,2,Professionals
+2423,Personnel and careers professionals,242,Administration professionals,24,Business and administration professionals,2,Professionals
+2424,Training and staff development professionals,242,Administration professionals,24,Business and administration professionals,2,Professionals
+2431,Advertising and marketing professionals,243,"Sales, marketing and public relations professionals",24,Business and administration professionals,2,Professionals
+2432,Public relations professionals,243,"Sales, marketing and public relations professionals",24,Business and administration professionals,2,Professionals
+2433,Technical and medical sales professionals (excluding ICT),243,"Sales, marketing and public relations professionals",24,Business and administration professionals,2,Professionals
+2434,Information and communications technology sales professionals,243,"Sales, marketing and public relations professionals",24,Business and administration professionals,2,Professionals
+2511,Systems analysts,251,Software and applications developers and analysts,25,Information and communications technology professionals,2,Professionals
+2512,Software developers,251,Software and applications developers and analysts,25,Information and communications technology professionals,2,Professionals
+2513,Web and multimedia developers,251,Software and applications developers and analysts,25,Information and communications technology professionals,2,Professionals
+2514,Applications programmers,251,Software and applications developers and analysts,25,Information and communications technology professionals,2,Professionals
+2519,Software and applications developers and analysts not elsewhere classified,251,Software and applications developers and analysts,25,Information and communications technology professionals,2,Professionals
+2521,Database designers and administrators,252,Database and network professionals,25,Information and communications technology professionals,2,Professionals
+2522,Systems administrators,252,Database and network professionals,25,Information and communications technology professionals,2,Professionals
+2523,Computer network professionals,252,Database and network professionals,25,Information and communications technology professionals,2,Professionals
+2529,Database and network professionals not elsewhere classified,252,Database and network professionals,25,Information and communications technology professionals,2,Professionals
+2611,Lawyers,261,Legal professionals,26,"Legal, social and cultural professionals",2,Professionals
+2612,Judges,261,Legal professionals,26,"Legal, social and cultural professionals",2,Professionals
+2619,Legal professionals not elsewhere classified,261,Legal professionals,26,"Legal, social and cultural professionals",2,Professionals
+2621,Archivists and curators,262,"Librarians, archivists and curators",26,"Legal, social and cultural professionals",2,Professionals
+2622,Librarians and related information professionals,262,"Librarians, archivists and curators",26,"Legal, social and cultural professionals",2,Professionals
+2631,Economists,263,Social and religious professionals,26,"Legal, social and cultural professionals",2,Professionals
+2632,"Sociologists, anthropologists and related professionals",263,Social and religious professionals,26,"Legal, social and cultural professionals",2,Professionals
+2633,"Philosophers, historians and political scientists",263,Social and religious professionals,26,"Legal, social and cultural professionals",2,Professionals
+2634,Psychologists,263,Social and religious professionals,26,"Legal, social and cultural professionals",2,Professionals
+2635,Social work and counselling professionals,263,Social and religious professionals,26,"Legal, social and cultural professionals",2,Professionals
+2636,Religious professionals,263,Social and religious professionals,26,"Legal, social and cultural professionals",2,Professionals
+2641,Authors and related writers,264,"Authors, journalists and linguists",26,"Legal, social and cultural professionals",2,Professionals
+2642,Journalists,264,"Authors, journalists and linguists",26,"Legal, social and cultural professionals",2,Professionals
+2643,"Translators, interpreters and other linguists",264,"Authors, journalists and linguists",26,"Legal, social and cultural professionals",2,Professionals
+2651,Visual artists,265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+2652,"Musicians, singers and composers",265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+2653,Dancers and choreographers,265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+2654,"Film, stage and related directors and producers",265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+2655,Actors,265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+2656,"Announcers on radio, television and other media",265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+2659,Creative and performing artists not elsewhere classified,265,Creative and performing artists,26,"Legal, social and cultural professionals",2,Professionals
+3111,Chemical and physical science technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3112,Civil engineering technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3113,Electrical engineering technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3114,Electronics engineering technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3115,Mechanical engineering technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3116,Chemical engineering technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3117,Mining and metallurgical technicians,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3118,Draughtspersons,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3119,Physical and engineering science technicians not elsewhere classified,311,Physical and engineering science technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3121,Mining supervisors,312,"Mining, manufacturing and construction supervisors",31,Science and engineering associate professionals,3,Technicians and associate professionals
+3122,Manufacturing supervisors,312,"Mining, manufacturing and construction supervisors",31,Science and engineering associate professionals,3,Technicians and associate professionals
+3123,Construction supervisors,312,"Mining, manufacturing and construction supervisors",31,Science and engineering associate professionals,3,Technicians and associate professionals
+3131,Power production plant operators,313,Process control technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3132,Incinerator and water treatment plant operators,313,Process control technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3133,Chemical processing plant controllers,313,Process control technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3134,Petroleum and natural gas refining plant operators,313,Process control technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3135,Metal production process controllers,313,Process control technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3139,Process control technicians not elsewhere classified,313,Process control technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3141,Life science technicians (excluding medical),314,Life science technicians and related associate professionals,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3142,Agricultural technicians,314,Life science technicians and related associate professionals,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3143,Forestry technicians,314,Life science technicians and related associate professionals,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3151,Ships' engineers,315,Ship and aircraft controllers and technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3152,Ships' deck officers and pilots,315,Ship and aircraft controllers and technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3153,Aircraft pilots and related associate professionals,315,Ship and aircraft controllers and technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3154,Air traffic controllers,315,Ship and aircraft controllers and technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3155,Air traffic safety electronics technicians,315,Ship and aircraft controllers and technicians,31,Science and engineering associate professionals,3,Technicians and associate professionals
+3211,Medical imaging and therapeutic equipment technicians,321,Medical and pharmaceutical technicians,32,Health associate professionals,3,Technicians and associate professionals
+3212,Medical and pathology laboratory technicians,321,Medical and pharmaceutical technicians,32,Health associate professionals,3,Technicians and associate professionals
+3213,Pharmaceutical technicians and assistants,321,Medical and pharmaceutical technicians,32,Health associate professionals,3,Technicians and associate professionals
+3214,Medical and dental prosthetic technicians,321,Medical and pharmaceutical technicians,32,Health associate professionals,3,Technicians and associate professionals
+3221,Nursing associate professionals,322,Nursing and midwifery associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3222,Midwifery associate professionals,322,Nursing and midwifery associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3230,Traditional and complementary medicine associate professionals,323,Traditional and complementary medicine associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3240,Veterinary technicians and assistants,324,Veterinary technicians and assistants,32,Health associate professionals,3,Technicians and associate professionals
+3251,Dental assistants and therapists,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3252,Medical records and health information technicians,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3253,Community health workers,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3254,Dispensing opticians,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3255,Physiotherapy technicians and assistants,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3256,Medical assistants,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3257,Environmental and occupational health inspectors and associates,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3258,Ambulance workers,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3259,Health associate professionals not elsewhere classified,325,Other health associate professionals,32,Health associate professionals,3,Technicians and associate professionals
+3311,Securities and finance dealers and brokers,331,Financial and mathematical associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3312,Credit and loans officers,331,Financial and mathematical associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3313,Accounting associate professionals,331,Financial and mathematical associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3314,"Statistical, mathematical and related associate professionals",331,Financial and mathematical associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3315,Valuers and loss assessors,331,Financial and mathematical associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3321,Insurance representatives,332,Sales and purchasing agents and brokers,33,Business and administration associate professionals,3,Technicians and associate professionals
+3322,Commercial sales representatives,332,Sales and purchasing agents and brokers,33,Business and administration associate professionals,3,Technicians and associate professionals
+3323,Buyers,332,Sales and purchasing agents and brokers,33,Business and administration associate professionals,3,Technicians and associate professionals
+3324,Trade brokers,332,Sales and purchasing agents and brokers,33,Business and administration associate professionals,3,Technicians and associate professionals
+3331,Clearing and forwarding agents,333,Business services agents,33,Business and administration associate professionals,3,Technicians and associate professionals
+3332,Conference and event planners,333,Business services agents,33,Business and administration associate professionals,3,Technicians and associate professionals
+3333,Employment agents and contractors,333,Business services agents,33,Business and administration associate professionals,3,Technicians and associate professionals
+3334,Real estate agents and property managers,333,Business services agents,33,Business and administration associate professionals,3,Technicians and associate professionals
+3339,Business services agents not elsewhere classified,333,Business services agents,33,Business and administration associate professionals,3,Technicians and associate professionals
+3341,Office supervisors,334,Administrative and specialised secretaries,33,Business and administration associate professionals,3,Technicians and associate professionals
+3342,Legal secretaries,334,Administrative and specialised secretaries,33,Business and administration associate professionals,3,Technicians and associate professionals
+3343,Administrative and executive secretaries,334,Administrative and specialised secretaries,33,Business and administration associate professionals,3,Technicians and associate professionals
+3344,Medical secretaries,334,Administrative and specialised secretaries,33,Business and administration associate professionals,3,Technicians and associate professionals
+3351,Customs and border inspectors,335,Regulatory government associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3352,Government tax and excise officials,335,Regulatory government associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3353,Government social benefits officials,335,Regulatory government associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3354,Government licensing officials,335,Regulatory government associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3355,Police inspectors and detectives,335,Regulatory government associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3359,Regulatory government associate professionals not elsewhere classified,335,Regulatory government associate professionals,33,Business and administration associate professionals,3,Technicians and associate professionals
+3411,Legal and related associate professionals,341,"Legal, social and religious associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3412,Social work associate professionals,341,"Legal, social and religious associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3413,Religious associate professionals,341,"Legal, social and religious associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3421,Athletes and sports players,342,Sports and fitness workers,34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3422,"Sports coaches, instructors and officials",342,Sports and fitness workers,34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3423,Fitness and recreation instructors and program leaders,342,Sports and fitness workers,34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3431,Photographers,343,"Artistic, cultural and culinary associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3432,Interior designers and decorators,343,"Artistic, cultural and culinary associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3433,"Gallery, museum and library technicians",343,"Artistic, cultural and culinary associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3434,Chefs,343,"Artistic, cultural and culinary associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3435,Other artistic and cultural associate professionals,343,"Artistic, cultural and culinary associate professionals",34,"Legal, social, cultural and related associate professionals",3,Technicians and associate professionals
+3511,Information and communications technology operations technicians,351,Information and communications technology operations and user support technicians,35,Information and communications technicians,3,Technicians and associate professionals
+3512,Information and communications technology user support technicians,351,Information and communications technology operations and user support technicians,35,Information and communications technicians,3,Technicians and associate professionals
+3513,Computer network and systems technicians,351,Information and communications technology operations and user support technicians,35,Information and communications technicians,3,Technicians and associate professionals
+3514,Web technicians,351,Information and communications technology operations and user support technicians,35,Information and communications technicians,3,Technicians and associate professionals
+3521,Broadcasting and audio-visual technicians,352,Telecommunications and broadcasting technicians,35,Information and communications technicians,3,Technicians and associate professionals
+3522,Telecommunications engineering technicians,352,Telecommunications and broadcasting technicians,35,Information and communications technicians,3,Technicians and associate professionals
+4110,General office clerks,411,General office clerks,41,General and keyboard clerks,4,Clerical support workers
+4120,Secretaries (general),412,Secretaries (general),41,General and keyboard clerks,4,Clerical support workers
+4131,Typists and word processing operators,413,Keyboard operators,41,General and keyboard clerks,4,Clerical support workers
+4132,Data entry clerks,413,Keyboard operators,41,General and keyboard clerks,4,Clerical support workers
+4211,Bank tellers and related clerks,421,"Tellers, money collectors and related clerks",42,Customer services clerks,4,Clerical support workers
+4212,"Bookmakers, croupiers and related gaming workers",421,"Tellers, money collectors and related clerks",42,Customer services clerks,4,Clerical support workers
+4213,Pawnbrokers and money-lenders,421,"Tellers, money collectors and related clerks",42,Customer services clerks,4,Clerical support workers
+4214,Debt-collectors and related workers,421,"Tellers, money collectors and related clerks",42,Customer services clerks,4,Clerical support workers
+4221,Travel consultants and clerks,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4222,Contact centre information clerks,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4223,Telephone switchboard operators,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4224,Hotel receptionists,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4225,Enquiry clerks,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4226,Receptionists (general),422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4227,Survey and market research interviewers,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4229,Client information workers not elsewhere classified,422,Client information workers,42,Customer services clerks,4,Clerical support workers
+4311,Accounting and bookkeeping clerks,431,Numerical clerks,43,Numerical and material recording clerks,4,Clerical support workers
+4312,"Statistical, finance and insurance clerks",431,Numerical clerks,43,Numerical and material recording clerks,4,Clerical support workers
+4313,Payroll clerks,431,Numerical clerks,43,Numerical and material recording clerks,4,Clerical support workers
+4321,Stock clerks,432,Material-recording and transport clerks,43,Numerical and material recording clerks,4,Clerical support workers
+4322,Production clerks,432,Material-recording and transport clerks,43,Numerical and material recording clerks,4,Clerical support workers
+4323,Transport clerks,432,Material-recording and transport clerks,43,Numerical and material recording clerks,4,Clerical support workers
+4411,Library clerks,441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+4412,Mail carriers and sorting clerks,441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+4413,"Coding, proof-reading and related clerks",441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+4414,Scribes and related workers,441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+4415,Filing and copying clerks,441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+4416,Personnel clerks,441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+4419,Clerical support workers not elsewhere classified,441,Other clerical support workers,44,Other clerical support workers,4,Clerical support workers
+5111,Travel attendants and travel stewards,511,"Travel attendants, conductors and guides",51,Personal service workers,5,Service and sales workers
+5112,Transport conductors,511,"Travel attendants, conductors and guides",51,Personal service workers,5,Service and sales workers
+5113,Travel guides,511,"Travel attendants, conductors and guides",51,Personal service workers,5,Service and sales workers
+5120,Cooks,512,Cooks,51,Personal service workers,5,Service and sales workers
+5131,Waiters,513,Waiters and bartenders,51,Personal service workers,5,Service and sales workers
+5132,Bartenders,513,Waiters and bartenders,51,Personal service workers,5,Service and sales workers
+5141,Hairdressers,514,"Hairdressers, beauticians and related workers",51,Personal service workers,5,Service and sales workers
+5142,Beauticians and related workers,514,"Hairdressers, beauticians and related workers",51,Personal service workers,5,Service and sales workers
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",515,Building and housekeeping supervisors,51,Personal service workers,5,Service and sales workers
+5152,Domestic housekeepers,515,Building and housekeeping supervisors,51,Personal service workers,5,Service and sales workers
+5153,Building caretakers,515,Building and housekeeping supervisors,51,Personal service workers,5,Service and sales workers
+5161,"Astrologers, fortune-tellers and related workers",516,Other personal services workers,51,Personal service workers,5,Service and sales workers
+5162,Companions and valets,516,Other personal services workers,51,Personal service workers,5,Service and sales workers
+5163,Undertakers and embalmers,516,Other personal services workers,51,Personal service workers,5,Service and sales workers
+5164,Pet groomers and animal care workers,516,Other personal services workers,51,Personal service workers,5,Service and sales workers
+5165,Driving instructors,516,Other personal services workers,51,Personal service workers,5,Service and sales workers
+5169,Personal services workers not elsewhere classified,516,Other personal services workers,51,Personal service workers,5,Service and sales workers
+5211,Stall and market salespersons,521,Street and market salespersons,52,Sales workers,5,Service and sales workers
+5212,Street food salespersons,521,Street and market salespersons,52,Sales workers,5,Service and sales workers
+5221,Shop keepers,522,Shop salespersons,52,Sales workers,5,Service and sales workers
+5222,Shop supervisors,522,Shop salespersons,52,Sales workers,5,Service and sales workers
+5223,Shop sales assistants,522,Shop salespersons,52,Sales workers,5,Service and sales workers
+5230,Cashiers and ticket clerks,523,Cashiers and ticket clerks,52,Sales workers,5,Service and sales workers
+5241,Fashion and other models,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5242,Sales demonstrators,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5243,Door to door salespersons,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5244,Contact centre salespersons,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5245,Service station attendants,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5246,Food service counter attendants,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5249,Sales workers not elsewhere classified,524,Other sales workers,52,Sales workers,5,Service and sales workers
+5311,Child care workers,531,Child care workers and teachers' aides,53,Personal care workers,5,Service and sales workers
+5312,Teachers' aides,531,Child care workers and teachers' aides,53,Personal care workers,5,Service and sales workers
+5321,Health care assistants,532,Personal care workers in health services,53,Personal care workers,5,Service and sales workers
+5322,Home-based personal care workers,532,Personal care workers in health services,53,Personal care workers,5,Service and sales workers
+5329,Personal care workers in health services not elsewhere classified,532,Personal care workers in health services,53,Personal care workers,5,Service and sales workers
+5411,Fire-fighters,541,Protective services workers,54,Protective services workers,5,Service and sales workers
+5412,Police officers,541,Protective services workers,54,Protective services workers,5,Service and sales workers
+5413,Prison guards,541,Protective services workers,54,Protective services workers,5,Service and sales workers
+5414,Security guards,541,Protective services workers,54,Protective services workers,5,Service and sales workers
+5419,Protective services workers not elsewhere classified,541,Protective services workers,54,Protective services workers,5,Service and sales workers
+6111,Field crop and vegetable growers,611,Market gardeners and crop growers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6112,Tree and shrub crop growers,611,Market gardeners and crop growers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6113,"Gardeners, horticultural and nursery growers",611,Market gardeners and crop growers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6114,Mixed crop growers,611,Market gardeners and crop growers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6121,Livestock and dairy producers,612,Animal producers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6122,Poultry producers,612,Animal producers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6123,Apiarists and sericulturists,612,Animal producers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6129,Animal producers not elsewhere classified,612,Animal producers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6130,Mixed crop and animal producers,613,Mixed crop and animal producers,61,Market-oriented skilled agricultural workers,6,"Skilled agricultural, forestry and fishery workers"
+6210,Forestry and related workers,621,Forestry and related workers,62,"Market-oriented skilled forestry, fishery and hunting workers",6,"Skilled agricultural, forestry and fishery workers"
+6221,Aquaculture workers,622,"Fishery workers, hunters and trappers",62,"Market-oriented skilled forestry, fishery and hunting workers",6,"Skilled agricultural, forestry and fishery workers"
+6222,Inland and coastal waters fishery workers,622,"Fishery workers, hunters and trappers",62,"Market-oriented skilled forestry, fishery and hunting workers",6,"Skilled agricultural, forestry and fishery workers"
+6223,Deep-sea fishery workers,622,"Fishery workers, hunters and trappers",62,"Market-oriented skilled forestry, fishery and hunting workers",6,"Skilled agricultural, forestry and fishery workers"
+6224,Hunters and trappers,622,"Fishery workers, hunters and trappers",62,"Market-oriented skilled forestry, fishery and hunting workers",6,"Skilled agricultural, forestry and fishery workers"
+6310,Subsistence crop farmers,631,Subsistence crop farmers,63,"Subsistence farmers, fishers, hunters and gatherers",6,"Skilled agricultural, forestry and fishery workers"
+6320,Subsistence livestock farmers,632,Subsistence livestock farmers,63,"Subsistence farmers, fishers, hunters and gatherers",6,"Skilled agricultural, forestry and fishery workers"
+6330,Subsistence mixed crop and livestock farmers,633,Subsistence mixed crop and livestock farmers,63,"Subsistence farmers, fishers, hunters and gatherers",6,"Skilled agricultural, forestry and fishery workers"
+6340,"Subsistence fishers, hunters, trappers and gatherers",634,"Subsistence fishers, hunters, trappers and gatherers",63,"Subsistence farmers, fishers, hunters and gatherers",6,"Skilled agricultural, forestry and fishery workers"
+7111,House builders,711,Building frame and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7112,Bricklayers and related workers,711,Building frame and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7113,"Stonemasons, stone cutters, splitters and carvers",711,Building frame and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7114,"Concrete placers, concrete finishers and related workers",711,Building frame and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7115,Carpenters and joiners,711,Building frame and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7119,Building frame and related trades workers not elsewhere classified,711,Building frame and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7121,Roofers,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7122,Floor layers and tile setters,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7123,Plasterers,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7124,Insulation workers,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7125,Glaziers,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7126,Plumbers and pipe fitters,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7127,Air conditioning and refrigeration mechanics,712,Building finishers and related trades workers,71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7131,Painters and related workers,713,"Painters, building structure cleaners and related trades workers",71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7132,Spray painters and varnishers,713,"Painters, building structure cleaners and related trades workers",71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7133,Building structure cleaners,713,"Painters, building structure cleaners and related trades workers",71,"Building and related trades workers, excluding electricians",7,Craft and related trades workers
+7211,Metal moulders and coremakers,721,"Sheet and structural metal workers, moulders and welders, and related workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7212,Welders and flamecutters,721,"Sheet and structural metal workers, moulders and welders, and related workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7213,Sheet-metal workers,721,"Sheet and structural metal workers, moulders and welders, and related workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7214,Structural-metal preparers and erectors,721,"Sheet and structural metal workers, moulders and welders, and related workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7215,Riggers and cable splicers,721,"Sheet and structural metal workers, moulders and welders, and related workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7221,"Blacksmiths, hammersmiths and forging press workers",722,"Blacksmiths, toolmakers and related trades workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7222,Toolmakers and related workers,722,"Blacksmiths, toolmakers and related trades workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7223,Metal working machine tool setters and operators,722,"Blacksmiths, toolmakers and related trades workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7224,"Metal polishers, wheel grinders and tool sharpeners",722,"Blacksmiths, toolmakers and related trades workers",72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7231,Motor vehicle mechanics and repairers,723,Machinery mechanics and repairers,72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7232,Aircraft engine mechanics and repairers,723,Machinery mechanics and repairers,72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7233,Agricultural and industrial machinery mechanics and repairers,723,Machinery mechanics and repairers,72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7234,Bicycle and related repairers,723,Machinery mechanics and repairers,72,"Metal, machinery and related trades workers",7,Craft and related trades workers
+7311,Precision-instrument makers and repairers,731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7312,Musical instrument makers and tuners,731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7313,Jewellery and precious-metal workers,731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7314,Potters and related workers,731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7315,"Glass makers, cutters, grinders and finishers",731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7316,"Sign writers, decorative painters, engravers and etchers",731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7317,"Handicraft workers in wood, basketry and related materials",731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7318,"Handicraft workers in textile, leather and related materials",731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7319,Handicraft workers not elsewhere classified,731,Handicraft workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7321,Pre-press technicians,732,Printing trades workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7322,Printers,732,Printing trades workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7323,Print finishing and binding workers,732,Printing trades workers,73,Handicraft and printing workers,7,Craft and related trades workers
+7411,Building and related electricians,741,Electrical equipment installers and repairers,74,Electrical and electronic trades workers,7,Craft and related trades workers
+7412,Electrical mechanics and fitters,741,Electrical equipment installers and repairers,74,Electrical and electronic trades workers,7,Craft and related trades workers
+7413,Electrical line installers and repairers,741,Electrical equipment installers and repairers,74,Electrical and electronic trades workers,7,Craft and related trades workers
+7421,Electronics mechanics and servicers,742,Electronics and telecommunications installers and repairers,74,Electrical and electronic trades workers,7,Craft and related trades workers
+7422,Information and communications technology installers and servicers,742,Electronics and telecommunications installers and repairers,74,Electrical and electronic trades workers,7,Craft and related trades workers
+7511,"Butchers, fishmongers and related food preparers",751,Food processing and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7512,"Bakers, pastry-cooks and confectionery makers",751,Food processing and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7513,Dairy-products makers,751,Food processing and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7514,"Fruit, vegetable and related preservers",751,Food processing and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7515,Food and beverage tasters and graders,751,Food processing and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7516,Tobacco preparers and tobacco products makers,751,Food processing and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7521,Wood treaters,752,"Wood treaters, cabinet-makers and related trades workers",75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7522,Cabinet-makers and related workers,752,"Wood treaters, cabinet-makers and related trades workers",75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7523,Woodworking-machine tool setters and operators,752,"Wood treaters, cabinet-makers and related trades workers",75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7531,"Tailors, dressmakers, furriers and hatters",753,Garment and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7532,Garment and related pattern-makers and cutters,753,Garment and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7533,"Sewing, embroidery and related workers",753,Garment and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7534,Upholsterers and related workers,753,Garment and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7535,"Pelt dressers, tanners and fellmongers",753,Garment and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7536,Shoemakers and related workers,753,Garment and related trades workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7541,Underwater divers,754,Other craft and related workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7542,Shotfirers and blasters,754,Other craft and related workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7543,Product graders and testers (excluding foods and beverages),754,Other craft and related workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7544,Fumigators and other pest and weed controllers,754,Other craft and related workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+7549,Craft and related workers not elsewhere classified,754,Other craft and related workers,75,"Food processing, wood working, garment and other craft and related trades workers",7,Craft and related trades workers
+8111,Miners and quarriers,811,Mining and mineral processing plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8112,Mineral and stone processing plant operators,811,Mining and mineral processing plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8113,Well drillers and borers and related workers,811,Mining and mineral processing plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8114,"Cement, stone and other mineral products machine operators",811,Mining and mineral processing plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8121,Metal processing plant operators,812,Metal processing and finishing plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8122,"Metal finishing, plating and coating machine operators",812,Metal processing and finishing plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8131,Chemical products plant and machine operators,813,Chemical and photographic products plant and machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8132,Photographic products machine operators,813,Chemical and photographic products plant and machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8141,Rubber products machine operators,814,"Rubber, plastic and paper products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8142,Plastic products machine operators,814,"Rubber, plastic and paper products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8143,Paper products machine operators,814,"Rubber, plastic and paper products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8151,"Fibre preparing, spinning and winding machine operators",815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8152,Weaving and knitting machine operators,815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8153,Sewing machine operators,815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8154,"Bleaching, dyeing and fabric cleaning machine operators",815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8155,Fur and leather preparing machine operators,815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8156,Shoemaking and related machine operators,815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8157,Laundry machine operators,815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8159,"Textile, fur and leather products machine operators not elsewhere classified",815,"Textile, fur and leather products machine operators",81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8160,Food and related products machine operators,816,Food and related products machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8171,Pulp and papermaking plant operators,817,Wood processing and papermaking plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8172,Wood processing plant operators,817,Wood processing and papermaking plant operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8181,Glass and ceramics plant operators,818,Other stationary plant and machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8182,Steam engine and boiler operators,818,Other stationary plant and machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8183,"Packing, bottling and labelling machine operators",818,Other stationary plant and machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8189,Stationary plant and machine operators not elsewhere classified,818,Other stationary plant and machine operators,81,Stationary plant and machine operators,8,"Plant and machine operators, and assemblers"
+8211,Mechanical machinery assemblers,821,Assemblers,82,Assemblers,8,"Plant and machine operators, and assemblers"
+8212,Electrical and electronic equipment assemblers,821,Assemblers,82,Assemblers,8,"Plant and machine operators, and assemblers"
+8219,Assemblers not elsewhere classified,821,Assemblers,82,Assemblers,8,"Plant and machine operators, and assemblers"
+8311,Locomotive engine drivers,831,Locomotive engine drivers and related workers,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8312,"Railway brake, signal and switch operators",831,Locomotive engine drivers and related workers,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8321,Motorcycle drivers,832,"Car, van and motorcycle drivers",83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8322,"Car, taxi and van drivers",832,"Car, van and motorcycle drivers",83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8331,Bus and tram drivers,833,Heavy truck and bus drivers,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8332,Heavy truck and lorry drivers,833,Heavy truck and bus drivers,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8341,Mobile farm and forestry plant operators,834,Mobile plant operators,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8342,Earthmoving and related plant operators,834,Mobile plant operators,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8343,"Crane, hoist and related plant operators",834,Mobile plant operators,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8344,Lifting truck operators,834,Mobile plant operators,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+8350,Ships' deck crews and related workers,835,Ships' deck crews and related workers,83,Drivers and mobile plant operators,8,"Plant and machine operators, and assemblers"
+9111,Domestic cleaners and helpers,911,"Domestic, hotel and office cleaners and helpers",91,Cleaners and helpers,9,Elementary occupations
+9112,"Cleaners and helpers in offices, hotels and other establishments",911,"Domestic, hotel and office cleaners and helpers",91,Cleaners and helpers,9,Elementary occupations
+9121,Hand launderers and pressers,912,"Vehicle, window, laundry and other hand cleaning workers",91,Cleaners and helpers,9,Elementary occupations
+9122,Vehicle cleaners,912,"Vehicle, window, laundry and other hand cleaning workers",91,Cleaners and helpers,9,Elementary occupations
+9123,Window cleaners,912,"Vehicle, window, laundry and other hand cleaning workers",91,Cleaners and helpers,9,Elementary occupations
+9129,Other cleaning workers,912,"Vehicle, window, laundry and other hand cleaning workers",91,Cleaners and helpers,9,Elementary occupations
+9211,Crop farm labourers,921,"Agricultural, forestry and fishery labourers",92,"Agricultural, forestry and fishery labourers",9,Elementary occupations
+9212,Livestock farm labourers,921,"Agricultural, forestry and fishery labourers",92,"Agricultural, forestry and fishery labourers",9,Elementary occupations
+9213,Mixed crop and livestock farm labourers,921,"Agricultural, forestry and fishery labourers",92,"Agricultural, forestry and fishery labourers",9,Elementary occupations
+9214,Garden and horticultural labourers,921,"Agricultural, forestry and fishery labourers",92,"Agricultural, forestry and fishery labourers",9,Elementary occupations
+9215,Forestry labourers,921,"Agricultural, forestry and fishery labourers",92,"Agricultural, forestry and fishery labourers",9,Elementary occupations
+9216,Fishery and aquaculture labourers,921,"Agricultural, forestry and fishery labourers",92,"Agricultural, forestry and fishery labourers",9,Elementary occupations
+9311,Mining and quarrying labourers,931,Mining and construction labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9312,Civil engineering labourers,931,Mining and construction labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9313,Building construction labourers,931,Mining and construction labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9321,Hand packers,932,Manufacturing labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9329,Manufacturing labourers not elsewhere classified,932,Manufacturing labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9331,Hand and pedal vehicle drivers,933,Transport and storage labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9332,Drivers of animal-drawn vehicles and machinery,933,Transport and storage labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9333,Freight handlers,933,Transport and storage labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9334,Shelf fillers,933,Transport and storage labourers,93,"Labourers in mining, construction, manufacturing and transport",9,Elementary occupations
+9411,Fast food preparers,941,Food preparation assistants,94,Food preparation assistants,9,Elementary occupations
+9412,Kitchen helpers,941,Food preparation assistants,94,Food preparation assistants,9,Elementary occupations
+9510,Street and related service workers,951,Street and related service workers,95,Street and related sales and service workers,9,Elementary occupations
+9520,Street vendors (excluding food),952,Street vendors (excluding food),95,Street and related sales and service workers,9,Elementary occupations
+9611,Garbage and recycling collectors,961,Refuse workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9612,Refuse sorters,961,Refuse workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9613,Sweepers and related labourers,961,Refuse workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9621,"Messengers, package deliverers and luggage porters",962,Other elementary workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9622,Odd job persons,962,Other elementary workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9623,Meter readers and vending-machine collectors,962,Other elementary workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9624,Water and firewood collectors,962,Other elementary workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+9629,Elementary workers not elsewhere classified,962,Other elementary workers,96,Refuse workers and other elementary workers,9,Elementary occupations
+0110,Commissioned armed forces officers,011,Commissioned armed forces officers,01,Commissioned armed forces officers,0,Armed forces occupations
+0210,Non-commissioned armed forces officers,021,Non-commissioned armed forces officers,02,Non-commissioned armed forces officers,0,Armed forces occupations
+0310,"Armed forces occupations, other ranks",031,"Armed forces occupations, other ranks",03,"Armed forces occupations, other ranks",0,Armed forces occupations
