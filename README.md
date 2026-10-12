@@ -6,6 +6,7 @@ Interactive explorer: https://pgmyrek.github.io/ai-exposure-explorer/ (switch to
 
 ## Files
 
+- `DATA_DICTIONARY.md`: what each variable in the spreadsheets means
 - `POLAND_FINAL_6digit_scores.xlsx`: scores by task, with Polish and English task text, the 2025 score and the model justification
 - `ISCO_mapping.csv`: mapping of ISCO-08 four-digit occupations to their parent groups
 - `Poland_6digit_tree_plot_EN.xlsx`, `output_data_EN.json`, `transformation_EN.ipynb`: data and code behind the tree viewer
